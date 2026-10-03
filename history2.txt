@@ -1,0 +1,22 @@
+    1  sudo apt update
+    2  sudo apt install git vim vim-gtk3 tree curl
+    3  sudo apt install ccache
+    4  ccache -M 5G
+    5  ccache -s
+    6  ccache -C
+    7  tree ~/.ccache
+    8  export CROSS_COMPILE="ccache your-toolchain-prefix"
+    9  ls -l /dev/ttyUSB*
+   10  sudo usermod -a -G dialout $USER
+   11  id | grep dialout
+   12  sudo apt install minicom
+   13  sudo minicom -s
+   14  minicom
+   15  sudo vim /etc/udev/rules.d/51-android.rules
+   16  sudo udevadm control --reload
+   17  sudo udevadm trigger
+   18  wget "https://developer.arm.com/-/media/Files/downloads/gnu-a/8.3-2019.03/binrel/gcc-arm-8.3-2019.03-x86_64-arm-eabi.tar.xz?revision=402e6a13-cb73-48dc-8218-ad75d6be0e01&la=en" -O gcc-arm-8.3-2019.03-x86_64-arm-eabi.tar.xz
+   19  sudo tar xJvf gcc-arm-8.3-2019.03-x86_64-arm-eabi.tar.xz -C /opt/
+   20  wget "https://developer.arm.com/-/media/Files/downloads/gnu-a/8.3-2019.03/binrel/gcc-arm-8.3-2019.03-x86_64-arm-linux-gnueabihf.tar.xz?revision=db0f3fb0-18e5-4d76-857e-3ce3b4991b38&la=en" -O gcc-arm-8.3-2019.03-x86_64-arm-linux-gnueabihf.tar.xz
+   21  sudo tar xJvf gcc-arm-8.3-2019.03-x86_64-arm-linux-gnueabihf.tar.xz -C /opt/
+   22  cd ~ && date && history > history2.txt 
