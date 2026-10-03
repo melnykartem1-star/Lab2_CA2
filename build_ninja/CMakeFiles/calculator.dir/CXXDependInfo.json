@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/artemmelnyk/Downloads/calculator/build_ninja",
+	"dir-cur-src" : "/home/artemmelnyk/Downloads/calculator",
+	"dir-top-bld" : "/home/artemmelnyk/Downloads/calculator/build_ninja",
+	"dir-top-src" : "/home/artemmelnyk/Downloads/calculator",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/artemmelnyk/Downloads/calculator/build_ninja/CMakeFiles/calculator.dir",
+	"sources" : 
+	{
+		"CMakeFiles/calculator.dir/src/calculator.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/artemmelnyk/Downloads/calculator/src/calculator.cpp"
+		}
+	}
+}

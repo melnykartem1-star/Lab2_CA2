@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/artemmelnyk/Downloads/calculator/build_ninja/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

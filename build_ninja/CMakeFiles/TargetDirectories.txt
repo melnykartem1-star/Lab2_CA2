@@ -1,0 +1,4 @@
+/home/artemmelnyk/Downloads/calculator/build_ninja/CMakeFiles/calculator.dir
+/home/artemmelnyk/Downloads/calculator/build_ninja/CMakeFiles/calc.dir
+/home/artemmelnyk/Downloads/calculator/build_ninja/CMakeFiles/edit_cache.dir
+/home/artemmelnyk/Downloads/calculator/build_ninja/CMakeFiles/rebuild_cache.dir

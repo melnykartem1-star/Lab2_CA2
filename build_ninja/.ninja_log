@@ -1,0 +1,13 @@
+# ninja log v7
+3	65	1791037063753013631	CMakeFiles/calculator.dir/src/calculator.cpp.o.ddi	1351d92d3527d0f2
+65	80	1791037063828815752	CMakeFiles/calculator.dir/CXX.dd	1e2d22c63f31c92c
+65	80	1791037063828815752	CMakeFiles/calculator.dir/CXXModules.json	1e2d22c63f31c92c
+65	80	1791037063828815752	CMakeFiles/calculator.dir/src/calculator.cpp.o.modmap	1e2d22c63f31c92c
+4	154	1791037063754013646	CMakeFiles/calc.dir/src/main.cpp.o.ddi	ae53e7411938f30b
+80	172	1791037063830014803	CMakeFiles/calculator.dir/src/calculator.cpp.o	c8eb63bf8aeba0bc
+154	179	1791037063928242269	CMakeFiles/calc.dir/CXX.dd	dc9e1f6f4c902599
+154	179	1791037063928242269	CMakeFiles/calc.dir/CXXModules.json	dc9e1f6f4c902599
+154	179	1791037063928242269	CMakeFiles/calc.dir/src/main.cpp.o.modmap	dc9e1f6f4c902599
+172	214	1791037063922871716	libcalculator.a	ba9e129c93854da3
+179	547	1791037063929016312	CMakeFiles/calc.dir/src/main.cpp.o	b39da087e325c2e9
+547	644	1791037064297021918	calc	174bb0098c149d75
