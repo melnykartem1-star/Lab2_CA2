@@ -1,0 +1,14 @@
+    1  cd Downloads
+    2  git clone https://github.com/SergiiPiatakov/calculator
+    3  cd calculator && touch main.cpp && vim main.cpp
+    4  mkdir src && mv calculator.h calculator.cpp main.cpp src
+    5  cd src && ls && cd ..
+    6  touch Makefile && vim Makefile
+    7  make
+    8  ./calc
+    9  make clean
+   10  touch CMakeLists.txt && vim CMakeLists.txt
+   11  mkdir build_ninja && cd build_ninja
+   12  cmake -G Ninja ..
+   13  ninja
+   14  cd ~ && date && history > history.txt 
